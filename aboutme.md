@@ -10,4 +10,4 @@ Hi,
 I'm Christina. I'm a PhD candidate at the [GIScience Research Group of the Univerity of Heidelberg](https://www.geog.uni-heidelberg.de/gis/ludwig.html). 
 
 
-<img id="profileimg" src="/img/profile_uyuni.jpg" alt="Avatar" style="width:200px">
+<img src="img/profile_uyuni.jpg" alt="Avatar" style="width:200px">
