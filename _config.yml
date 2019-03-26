@@ -27,11 +27,9 @@ avatar: "/img/globe-europe-detailed-bw.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
+  #Home: ""
+  #Resources:
+  #  - Featured users: "featured-users"
   About me: "aboutme"
 
 # --- Footer options --- #
