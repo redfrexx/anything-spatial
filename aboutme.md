@@ -2,8 +2,8 @@
 layout: page
 title: About me
 subtitle: Christina
-bigimg: /img/athabasca.jpg
 ---
+
 
 Hi, 
 
