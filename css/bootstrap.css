@@ -229,6 +229,9 @@ th {
   img {
     max-width: 100% !important;
   }
+  #profileimg {
+    border-radius: 50%;
+  }
   p,
   h2,
   h3 {
